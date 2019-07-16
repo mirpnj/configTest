@@ -1,0 +1,3 @@
+config.env: dev-json
+config.hello: welcome development
+config.type: json
