@@ -1,2 +1,3 @@
 config.env: dev-yml
 config.hello: welcome development
+config.type: yml
