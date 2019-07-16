@@ -1,0 +1,3 @@
+config.env: config-server-dev
+config.title: welcome config server
+config.file.type: yml
