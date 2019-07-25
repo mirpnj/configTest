@@ -1,3 +1,0 @@
-config.env: dev-txt
-config.hello: welcome development
-config.type: txt
